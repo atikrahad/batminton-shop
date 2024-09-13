@@ -15,9 +15,9 @@ const orderSchema = new Schema<IOrder>({
         quantity: { type: Number, required: true }
     }],
     totalPrice: { type: Number, required: true },
-    paymentMethod: { type: String, required: true },  // Cash on Delivery, Stripe
+    paymentMethod: { type: String, required: true },
     isPaid: { type: Boolean, default: false },
-    status: { type: String, default: 'Pending' } // Pending, Processing, Delivered
+    status: { type: String, default: 'Pending' }
 }, { timestamps: true });
 
 export const Order = model<IOrder>('Order', orderSchema);
