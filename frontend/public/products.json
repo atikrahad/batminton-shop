@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Victor Thruster K 9000",
+    "category": "Badminton",
+    "brand": "Victor",
+    "description": "Victor Thruster K 9000 is perfect for power players...",
+    "price": 169.99,
+    "discountPrice": 159.99,
+    "stockQuantity": 15,
+    "rating": 4.7,
+    "imageUrl": "https://m.media-amazon.com/images/I/41kGfYIPBRL.jpg"
+  },
+  {
+    "name": "Carlton Powerblade 9000",
+    "category": "Badminton",
+    "brand": "Carlton",
+    "description": "Carlton Powerblade 9000 offers great precision...",
+    "price": 119.99,
+    "discountPrice": null,
+    "stockQuantity": 5,
+    "rating": 4.2,
+    "imageUrl": "https://www.badmintonalley.com/v/vspfiles/photos/RACKET-CARLTON-KINESIS-2.jpg?v-cache=1674459903"
+  }
+]
