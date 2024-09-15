@@ -19,7 +19,7 @@ const Navber = () => {
   ];
 
   return (
-    <div className="max-w-screen-xl mx-auto">
+    <div className="max-w-screen-2xl px-0 md:px-5 lg:px-12 fixed z-30 w-full mx-auto">
       <div className="flex items-center justify-between p-3">
         <div>
           <img className="w-20" src={navIcon} alt="navIcon" />

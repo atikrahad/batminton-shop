@@ -8,7 +8,8 @@
     "discountPrice": 159.99,
     "stockQuantity": 15,
     "rating": 4.7,
-    "imageUrl": "https://m.media-amazon.com/images/I/41kGfYIPBRL.jpg"
+    "imageUrl": "https://badmintonclick.com.au/cdn/shop/files/victor-auraspeed-hs-plus-1_480x480.png?v=1724058975",
+    "discountPercentage": 5.88
   },
   {
     "name": "Carlton Powerblade 9000",
@@ -19,6 +20,31 @@
     "discountPrice": null,
     "stockQuantity": 5,
     "rating": 4.2,
-    "imageUrl": "https://www.badmintonalley.com/v/vspfiles/photos/RACKET-CARLTON-KINESIS-2.jpg?v-cache=1674459903"
+    "imageUrl": "https://www.badmintonwarehouse.com/cdn/shop/files/int_nf-700pl_529-1_2_513x700.webp?v=1726001805",
+    "discountPercentage": 0
+  },
+  {
+    "name": "Victor Thruster K 9000",
+    "category": "Badminton",
+    "brand": "Victor",
+    "description": "Victor Thruster K 9000 is perfect for power players...",
+    "price": 169.99,
+    "discountPrice": 159.99,
+    "stockQuantity": 15,
+    "rating": 4.7,
+    "imageUrl": "https://shoplineimg.com/5f193535e41e790028ce8d99/661e2ed46db3ce000ef9e473/800x.png?",
+    "discountPercentage": 5.88
+  },
+  {
+    "name": "Carlton Powerblade 9000",
+    "category": "Badminton",
+    "brand": "Carlton",
+    "description": "Carlton Powerblade 9000 offers great precision...",
+    "price": 119.99,
+    "discountPrice": null,
+    "stockQuantity": 5,
+    "rating": 4.2,
+    "imageUrl": "https://www.badmintonwarehouse.com/cdn/shop/files/int_nf-700pl_529-1_2_513x700.webp?v=1726001805",
+    "discountPercentage": 0
   }
 ]
